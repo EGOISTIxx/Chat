@@ -1,0 +1,14 @@
+.message {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+}
+
+.message .message__text{
+  margin-left: 10px;
+}
+
+hr {
+  width: 98%;
+}

@@ -1,0 +1,6 @@
+.messageBlock {
+  height: 70vh;
+  width: 100% !important;
+  overflow-y: auto;
+  color: #fff;
+}

@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  height: 100vh;
+  background: #2c3e50;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.App div {
+  width: 65%;
+}
